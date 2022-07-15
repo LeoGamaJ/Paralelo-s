@@ -1,2 +1,2 @@
 # Paralelo-s
-Scripts comparados entre JS e Python
+Scripts compared between JS and Python / Scripts comparados entre JS e Python
